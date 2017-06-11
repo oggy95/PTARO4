@@ -1,0 +1,5 @@
+c:\users\олег\documents\visual studio 2010\Projects\Лабораторна №4\Лабораторна №4\bin\Debug\Лабораторна №4.exe
+c:\users\олег\documents\visual studio 2010\Projects\Лабораторна №4\Лабораторна №4\bin\Debug\Лабораторна №4.pdb
+c:\users\олег\documents\visual studio 2010\Projects\Лабораторна №4\Лабораторна №4\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\олег\documents\visual studio 2010\Projects\Лабораторна №4\Лабораторна №4\obj\x86\Debug\Лабораторна №4.exe
+c:\users\олег\documents\visual studio 2010\Projects\Лабораторна №4\Лабораторна №4\obj\x86\Debug\Лабораторна №4.pdb
